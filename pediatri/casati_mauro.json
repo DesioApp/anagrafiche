@@ -1,0 +1,13 @@
+{
+  "VERSION": 1,
+  "ACTION": {
+    "TITLE": "Casati Mauro",
+    "SUBTITLE": "",
+    "TYPE": "MENU",
+    "MENU": [
+      {
+        "TITLE": "Telefono"
+      }
+    ]
+  }
+}
