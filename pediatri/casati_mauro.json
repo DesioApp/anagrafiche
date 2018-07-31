@@ -7,6 +7,15 @@
     "MENU": [
       {
         "TITLE": "Telefono"
+      },
+      {
+        "ICON": "f021",
+        "TITLE": "Refresh Menu",
+        "SUBTITLE": "Aggiorna dati app",
+        "VISIBLE": true,
+        "ACTION": {
+          "TYPE": "REFRESH"
+        }
       }
     ]
   }
