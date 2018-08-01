@@ -6,7 +6,14 @@
     "TYPE": "MENU",
     "MENU": [
       {
-        "TITLE": "Telefono"
+        "TITLE": "Telefono",
+        "SUBTITLE": "0362/301528",
+        "ACTION": {
+          "TYPE": "INTENT",
+          "INTENT": {
+            "VALUE": "tel:0362301528"
+          }
+        }
       },
       {
         "ICON": "f021",
