@@ -6,7 +6,7 @@
     "TYPE": "MENU",
     "MENU": [
       {
-        "ICON":"e0cd",
+        "ICON": "e0cd",
         "TITLE": "Telefono",
         "SUBTITLE": "0362/301528",
         "NOTE": "Da lun a ven dalle 09.00 alle 13.00 e dalle 14.00 - 17.30",
@@ -16,6 +16,10 @@
             "VALUE": "tel:0362301528"
           }
         }
+      },
+      {
+        "TITLE": "Orario ambulatorio",
+        "SUBTITLE": "Lunedì\nDalle 9.30 alle 12.30\nDalle 14.00 alle 16.00"
       },
       {
         "ICON": "f021",
